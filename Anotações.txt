@@ -1,13 +1,25 @@
 IDE: Azure Data Studio e/ou MySQL workbench
 Linguagem: SQL (aprender!)
 
-DDL - Data Definition Language: 
+DDL - Data Definition Language: (nivel de banco de dados)
 -CREATE TABLE - Criar tabela
 -ALTER TABLE - Altera os dados da tabela
 -DROP TABLE - remove a tabela
 
-DML - Data Manipulation Language:
+DML - Data Manipulation Language: (nivel de tabela)
 -INSERT - adição de dados na tabela
 -UPDATE - alterações de dados na tabela (Mais importante)
 -DELETE - deletar dados (registros dentro de uma tabela)
+
+DQL - Data Query Language (Leitura ou consulta de dados em um banco)
+-SELECT - quando utilizado sozinho é um comando de consulta
+        - quando utilizado com alguma regra, torna-se um comando de manipulação de dados.
+
+DCL - Data Control Language (Comumente atribuida ao DBA)
+-GRANT - primeiro comando. Garante o acesso ao banco de dados
+-REVOKE - permite um acesso restrito
+-DENY - nega o acesso total a consulta de tabelas
+
+Exercicios
+
 
