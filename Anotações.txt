@@ -1,0 +1,13 @@
+IDE: Azure Data Studio e/ou MySQL workbench
+Linguagem: SQL (aprender!)
+
+DDL - Data Definition Language: 
+-CREATE TABLE - Criar tabela
+-ALTER TABLE - Altera os dados da tabela
+-DROP TABLE - remove a tabela
+
+DML - Data Manipulation Language:
+-INSERT - adição de dados na tabela
+-UPDATE - alterações de dados na tabela (Mais importante)
+-DELETE - deletar dados (registros dentro de uma tabela)
+
